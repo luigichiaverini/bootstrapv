@@ -1,0 +1,42 @@
+[
+  {
+    "img": "img/sommelier1.jpg",
+    "nome": "Mario Rossi",
+    "professione": "Architetto"
+  },
+  {
+    "img": "img/sommelier2.jpg",
+    "nome": "Giovanni Rana",
+    "professione": "Ciclista"
+  },
+  {
+    "img": "img/sommelier3.jpg",
+    "nome": "Andrea Mollura",
+    "professione": "Commesso"
+  },
+  {
+    "img": "img/sommelier4.jpg",
+    "nome": "Maria Saccucci",
+    "professione": "Stilista"
+  },
+  {
+    "img": "img/sommelier1.jpg",
+    "nome": "Mario Rossi",
+    "professione": "Architetto"
+  },
+  {
+    "img": "img/sommelier2.jpg",
+    "nome": "Giovanni Rana",
+    "professione": "Ciclista"
+  },
+  {
+    "img": "img/sommelier3.jpg",
+    "nome": "Andrea Mollura",
+    "professione": "Commesso"
+  },
+  {
+    "img": "img/sommelier4.jpg",
+    "nome": "Maria Saccucci",
+    "professione": "Stilista"
+  }
+]
